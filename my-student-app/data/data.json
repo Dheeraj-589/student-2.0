@@ -1,0 +1,250 @@
+[
+  {
+    "firstName": "dheeraj",
+    "lastName": "gakkampudi",
+    "email": "dheerajdj589@gmail.com",
+    "phoneNumber": "8374969391",
+    "academicDetails": [
+      {
+        "instituteName": "gurajada school",
+        "boardOfExamination": "ssc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "70",
+        "academicDocument": "dheeraj 10th.pdf"
+      },
+      {
+        "instituteName": "sri chaitanya junior college",
+        "boardOfExamination": "inter",
+        "group": "mpc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "76",
+        "academicDocument": "dheeraj inter.pdf"
+      },
+      {
+        "instituteName": "sitam",
+        "degreeName": "b.tech",
+        "branch": "cse",
+        "yearOfPassOut": "2016-05",
+        "percentage": "62",
+        "academicDocument": "dheeraj degree.pdf"
+      }
+    ]
+  },
+  {
+    "firstName": "prem swaroop",
+    "lastName": "pyp",
+    "email": "pyppremswaroop@gmail.com",
+    "phoneNumber": "1234567890",
+    "academicDetails": [
+      {
+        "instituteName": "gurajada school",
+        "boardOfExamination": "ssc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "70",
+        "academicDocument": "prem 10th.pdf"
+      },
+      {
+        "instituteName": "sri chaitanya jr college ",
+        "boardOfExamination": "inter",
+        "group": "mpc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "76",
+        "academicDocument": "prem inter.pdf"
+      },
+      {
+        "instituteName": "lendi",
+        "degreeName": "b.tech",
+        "branch": "ece",
+        "yearOfPassOut": "2016-05",
+        "percentage": "76",
+        "academicDocument": "prem degree.pdf"
+      }
+    ]
+  },
+  {
+    "firstName": "gopal",
+    "lastName": "p",
+    "email": "gopal@gmail.com",
+    "phoneNumber": "1234567890",
+    "academicDetails": [
+      {
+        "instituteName": "gurajada school",
+        "boardOfExamination": "ssc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "93",
+        "academicDocument": "prem 10th.pdf"
+      },
+      {
+        "instituteName": "sri chaitanya jr college ",
+        "boardOfExamination": "inter",
+        "group": "mpc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "80",
+        "academicDocument": "prem inter.pdf"
+      },
+      {
+        "instituteName": "lendi",
+        "degreeName": "b.tech",
+        "branch": "ece",
+        "yearOfPassOut": "2016-05",
+        "percentage": "79",
+        "academicDocument": "dheeraj degree.pdf"
+      }
+    ]
+  },
+  {
+    "firstName": "dheeraj",
+    "lastName": "p",
+    "email": "dheeral@gmail.com",
+    "phoneNumber": "1234567890",
+    "academicDetails": [
+      {
+        "instituteName": "some school",
+        "boardOfExamination": "cbsc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "75",
+        "academicDocument": "dheeraj 10th.pdf"
+      },
+      {
+        "instituteName": "sri chaitanya jr college",
+        "boardOfExamination": "inter",
+        "group": "mpc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "76",
+        "academicDocument": "dheeraj inter.pdf"
+      },
+      {
+        "instituteName": "sitam",
+        "degreeName": "b.tech",
+        "branch": "cse",
+        "yearOfPassOut": "2016-05",
+        "percentage": "63",
+        "academicDocument": "dheeraj degree.pdf"
+      }
+    ]
+  },
+  {
+    "firstName": "praveen ",
+    "lastName": "p",
+    "email": "praveen@gmail.com",
+    "phoneNumber": "1234567890",
+    "academicDetails": [
+      {
+        "instituteName": "gurajada school",
+        "boardOfExamination": "ssc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "70",
+        "academicDocument": "dheeraj 10th.pdf"
+      },
+      {
+        "instituteName": "sri chaitanya jr college",
+        "boardOfExamination": "inter",
+        "group": "mpc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "76",
+        "academicDocument": "dheeraj inter.pdf"
+      },
+      {
+        "instituteName": "sitam",
+        "degreeName": "b.tech",
+        "branch": "cse",
+        "yearOfPassOut": "2016-05",
+        "percentage": "65",
+        "academicDocument": "dheeraj degree.pdf"
+      }
+    ]
+  },
+  {
+    "firstName": "purnima",
+    "lastName": "athmakuri",
+    "email": "purnima26042000@gmail.com",
+    "phoneNumber": "1234567891",
+    "academicDetails": [
+      {
+        "instituteName": "life school",
+        "boardOfExamination": "ssc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "85",
+        "academicDocument": "dheeraj 10th.pdf"
+      },
+      {
+        "instituteName": "sri gayatri jr college",
+        "boardOfExamination": "inter",
+        "group": "mpc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "75",
+        "academicDocument": "dheeraj inter.pdf"
+      },
+      {
+        "instituteName": "sitam",
+        "degreeName": "b.tech",
+        "branch": "cse",
+        "yearOfPassOut": "2016-05",
+        "percentage": "65",
+        "academicDocument": "dheeraj degree.pdf"
+      }
+    ]
+  },
+  {
+    "firstName": "dharani ",
+    "lastName": "gakkampudi",
+    "email": "dharani@gmail.com",
+    "phoneNumber": "8886866211",
+    "academicDetails": [
+      {
+        "instituteName": "gurajada school",
+        "boardOfExamination": "ssc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "93",
+        "academicDocument": "dheeraj 10th.pdf"
+      },
+      {
+        "instituteName": "nri jr college",
+        "boardOfExamination": "inter",
+        "group": "mpc",
+        "yearOfPassOut": "2016-05",
+        "percentage": "85",
+        "academicDocument": "dheeraj inter.pdf"
+      },
+      {
+        "instituteName": "miracle",
+        "degreeName": "b.tech",
+        "branch": "cse",
+        "yearOfPassOut": "2016-05",
+        "percentage": "78",
+        "academicDocument": "dheeraj degree.pdf"
+      }
+    ]
+  },
+  {
+    "firstName": "sdfghhj",
+    "lastName": "fdghjj",
+    "email": "dfghh@dsfg.com",
+    "phoneNumber": "1234567890",
+    "academicDetails": [
+      {
+        "instituteName": "fgfgh",
+        "boardOfExamination": "fdgh",
+        "yearOfPassOut": "2016-05",
+        "percentage": "67",
+        "academicDocument": "dheeraj 10th.pdf"
+      },
+      {
+        "instituteName": "dfghjdfgh",
+        "boardOfExamination": "dfgh",
+        "group": "dfg",
+        "yearOfPassOut": "2016-05",
+        "percentage": "67",
+        "academicDocument": "prem inter.pdf"
+      },
+      {
+        "instituteName": "dfghj",
+        "degreeName": "fdghjj",
+        "branch": "fgh",
+        "yearOfPassOut": "2016-05",
+        "percentage": "67",
+        "academicDocument": "dheeraj degree.pdf"
+      }
+    ]
+  }
+]
